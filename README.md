@@ -1,5 +1,6 @@
 # 2023-ggg298-week8
-Practice repo for GGG 298
-This is line 3
-/n is this a new line?  
-be the change you want to see in the world
+This is a new line  
+This is also a new line  
+Be the change you want to see in the world
+
+Or this is another way to make a new line
